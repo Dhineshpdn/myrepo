@@ -1,0 +1,428 @@
+{
+    "VirtualMFADevices": [
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_SridharS"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/gafoor.chougle"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/root-account-mfa-device",
+            "User": {
+                "UserId": "140654220647",
+                "Arn": "arn:aws:iam::140654220647:root",
+                "CreateDate": "2018-06-25T12:52:03Z",
+                "PasswordLastUsed": "2019-03-07T11:06:44Z"
+            },
+            "EnableDate": "2018-07-02T10:40:35Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_AneeshRavindran",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_AneeshRavindran",
+                "UserId": "AIDAJEREWQUMB7HB77JQ4",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_AneeshRavindran",
+                "CreateDate": "2018-10-03T11:14:18Z",
+                "PasswordLastUsed": "2020-12-09T05:41:19Z"
+            },
+            "EnableDate": "2020-01-29T05:27:35Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_AppOps2",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_AppOps2",
+                "UserId": "AIDASBP5FCVT24B4W5BZQ",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_AppOps2",
+                "CreateDate": "2019-07-11T12:36:11Z",
+                "PasswordLastUsed": "2020-12-11T04:34:35Z"
+            },
+            "EnableDate": "2020-05-29T08:57:08Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/manish.rohra",
+            "User": {
+                "Path": "/",
+                "UserName": "manish.rohra",
+                "UserId": "AIDASBP5FCVT2E3EMNBND",
+                "Arn": "arn:aws:iam::140654220647:user/manish.rohra",
+                "CreateDate": "2020-09-29T05:42:39Z",
+                "PasswordLastUsed": "2020-12-02T06:50:36Z"
+            },
+            "EnableDate": "2020-10-01T12:47:38Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Prajwal",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Prajwal",
+                "UserId": "AIDASBP5FCVT2PBTEVIJS",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Prajwal",
+                "CreateDate": "2020-05-18T11:01:48Z",
+                "PasswordLastUsed": "2020-12-10T13:32:05Z"
+            },
+            "EnableDate": "2020-05-18T15:50:45Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/prabhakaran.kuppan",
+            "User": {
+                "Path": "/",
+                "UserName": "prabhakaran.kuppan",
+                "UserId": "AIDASBP5FCVT2TQQL6U5U",
+                "Arn": "arn:aws:iam::140654220647:user/prabhakaran.kuppan",
+                "CreateDate": "2020-08-28T10:37:34Z",
+                "PasswordLastUsed": "2020-12-02T14:32:57Z"
+            },
+            "EnableDate": "2020-08-28T11:11:10Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/Ships_ZiyanaA",
+            "User": {
+                "Path": "/",
+                "UserName": "Ships_ZiyanaA",
+                "UserId": "AIDASBP5FCVT3BCZREHD5",
+                "Arn": "arn:aws:iam::140654220647:user/Ships_ZiyanaA",
+                "CreateDate": "2019-10-22T10:34:02Z",
+                "PasswordLastUsed": "2020-12-13T07:59:33Z"
+            },
+            "EnableDate": "2020-11-16T12:06:42Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_KumaraguruA",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_KumaraguruA",
+                "UserId": "AIDASBP5FCVT3CVHOZEHM",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_KumaraguruA",
+                "CreateDate": "2020-04-30T11:49:40Z",
+                "PasswordLastUsed": "2020-12-03T02:21:55Z"
+            },
+            "EnableDate": "2020-06-05T09:50:46Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/ronald.jumburu",
+            "User": {
+                "Path": "/",
+                "UserName": "ronald.jumburu",
+                "UserId": "AIDASBP5FCVT3IT7PWGEZ",
+                "Arn": "arn:aws:iam::140654220647:user/ronald.jumburu",
+                "CreateDate": "2020-11-05T11:11:42Z",
+                "PasswordLastUsed": "2020-11-09T11:03:38Z"
+            },
+            "EnableDate": "2020-11-09T11:00:09Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/srinivasarao.koppuravuri",
+            "User": {
+                "Path": "/",
+                "UserName": "srinivasarao.koppuravuri",
+                "UserId": "AIDASBP5FCVT4I3J4ONJZ",
+                "Arn": "arn:aws:iam::140654220647:user/srinivasarao.koppuravuri",
+                "CreateDate": "2020-11-10T13:04:21Z",
+                "PasswordLastUsed": "2020-11-26T15:14:28Z"
+            },
+            "EnableDate": "2020-11-10T13:06:47Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/anil.alva",
+            "User": {
+                "Path": "/",
+                "UserName": "anil.alva",
+                "UserId": "AIDASBP5FCVT4LHOI3O4B",
+                "Arn": "arn:aws:iam::140654220647:user/anil.alva",
+                "CreateDate": "2020-09-29T05:46:53Z",
+                "PasswordLastUsed": "2020-12-14T05:26:13Z"
+            },
+            "EnableDate": "2020-10-01T13:23:40Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_Reegan",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_Reegan",
+                "UserId": "AIDASBP5FCVT4MIRPLEH4",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_Reegan",
+                "CreateDate": "2020-04-30T11:50:03Z",
+                "PasswordLastUsed": "2020-12-14T05:02:56Z"
+            },
+            "EnableDate": "2020-06-03T08:39:48Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_KannanSomu",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_KannanSomu",
+                "UserId": "AIDASBP5FCVT5O6UKQTLY",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_KannanSomu",
+                "CreateDate": "2020-04-30T11:49:21Z",
+                "PasswordLastUsed": "2020-12-10T11:37:54Z"
+            },
+            "EnableDate": "2020-07-30T07:10:14Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/arun.prasadr",
+            "User": {
+                "Path": "/",
+                "UserName": "arun.prasadr",
+                "UserId": "AIDASBP5FCVT7SAEQB3H7",
+                "Arn": "arn:aws:iam::140654220647:user/arun.prasadr",
+                "CreateDate": "2020-09-17T04:08:35Z",
+                "PasswordLastUsed": "2020-12-11T14:19:09Z"
+            },
+            "EnableDate": "2020-09-17T12:17:52Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/sreenivasa.dinavahi",
+            "User": {
+                "Path": "/",
+                "UserName": "sreenivasa.dinavahi",
+                "UserId": "AIDASBP5FCVT7ZIUJ2AUA",
+                "Arn": "arn:aws:iam::140654220647:user/sreenivasa.dinavahi",
+                "CreateDate": "2020-10-05T05:46:16Z",
+                "PasswordLastUsed": "2020-10-05T11:40:07Z"
+            },
+            "EnableDate": "2020-10-05T11:35:36Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/harneet.arora",
+            "User": {
+                "Path": "/",
+                "UserName": "harneet.arora",
+                "UserId": "AIDASBP5FCVTSHRTROUOP",
+                "Arn": "arn:aws:iam::140654220647:user/harneet.arora",
+                "CreateDate": "2020-11-05T11:09:54Z",
+                "PasswordLastUsed": "2020-12-14T08:40:08Z"
+            },
+            "EnableDate": "2020-11-09T10:41:38Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_Nikhil",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_Nikhil",
+                "UserId": "AIDASBP5FCVTSK4XRZGYQ",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_Nikhil",
+                "CreateDate": "2020-06-02T06:30:40Z",
+                "PasswordLastUsed": "2020-12-11T11:14:47Z"
+            },
+            "EnableDate": "2020-06-02T06:33:11Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/gopinath.thangavelu",
+            "User": {
+                "Path": "/",
+                "UserName": "gopinath.thangavelu",
+                "UserId": "AIDASBP5FCVTSLJD5ELPH",
+                "Arn": "arn:aws:iam::140654220647:user/gopinath.thangavelu",
+                "CreateDate": "2020-11-05T11:01:36Z",
+                "PasswordLastUsed": "2020-12-11T09:40:11Z"
+            },
+            "EnableDate": "2020-11-09T08:44:37Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/Ships_BadarZadjali",
+            "User": {
+                "Path": "/",
+                "UserName": "Ships_BadarZadjali",
+                "UserId": "AIDASBP5FCVTSOMKP4PC5",
+                "Arn": "arn:aws:iam::140654220647:user/Ships_BadarZadjali",
+                "CreateDate": "2019-10-22T10:35:20Z",
+                "PasswordLastUsed": "2020-08-18T05:10:46Z"
+            },
+            "EnableDate": "2020-08-18T05:48:08Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/babusekhar.mayandisrinivasan",
+            "User": {
+                "Path": "/",
+                "UserName": "babusekhar.mayandisrinivasan",
+                "UserId": "AIDASBP5FCVTU63JGEPWX",
+                "Arn": "arn:aws:iam::140654220647:user/babusekhar.mayandisrinivasan",
+                "CreateDate": "2020-09-29T12:35:41Z",
+                "PasswordLastUsed": "2020-12-11T02:47:07Z"
+            },
+            "EnableDate": "2020-09-29T12:37:44Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_Kautilya",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_Kautilya",
+                "UserId": "AIDASBP5FCVTUVYYSHPWR",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_Kautilya",
+                "CreateDate": "2020-04-30T11:48:37Z",
+                "PasswordLastUsed": "2020-12-10T10:57:39Z"
+            },
+            "EnableDate": "2020-08-17T09:12:19Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/anoudal.silaimi",
+            "User": {
+                "Path": "/",
+                "UserName": "anoudal.silaimi",
+                "UserId": "AIDASBP5FCVTVFKAPHLHG",
+                "Arn": "arn:aws:iam::140654220647:user/anoudal.silaimi",
+                "CreateDate": "2020-10-05T05:49:40Z",
+                "PasswordLastUsed": "2020-12-13T08:45:48Z"
+            },
+            "EnableDate": "2020-10-05T11:45:11Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_Parvathinathan",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_Parvathinathan",
+                "UserId": "AIDASBP5FCVTVM2377LYW",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_Parvathinathan",
+                "CreateDate": "2020-05-29T08:24:27Z",
+                "PasswordLastUsed": "2020-12-04T15:54:51Z"
+            },
+            "EnableDate": "2020-05-29T08:26:36Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/Prabhurajan.Krishnan",
+            "User": {
+                "Path": "/",
+                "UserName": "Prabhurajan.Krishnan",
+                "UserId": "AIDASBP5FCVTW6CXMUTEX",
+                "Arn": "arn:aws:iam::140654220647:user/Prabhurajan.Krishnan",
+                "CreateDate": "2020-09-22T09:03:02Z",
+                "PasswordLastUsed": "2020-12-09T05:29:30Z"
+            },
+            "EnableDate": "2020-09-28T09:32:11Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/hussain.mala",
+            "User": {
+                "Path": "/",
+                "UserName": "hussain.mala",
+                "UserId": "AIDASBP5FCVTWN7KH2TJ2",
+                "Arn": "arn:aws:iam::140654220647:user/hussain.mala",
+                "CreateDate": "2020-09-29T05:44:31Z",
+                "PasswordLastUsed": "2020-11-12T10:48:42Z"
+            },
+            "EnableDate": "2020-10-01T12:37:09Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/rochelle.coelho",
+            "User": {
+                "Path": "/",
+                "UserName": "rochelle.coelho",
+                "UserId": "AIDASBP5FCVTWYA3UUVB2",
+                "Arn": "arn:aws:iam::140654220647:user/rochelle.coelho",
+                "CreateDate": "2020-11-05T11:05:46Z",
+                "PasswordLastUsed": "2020-11-09T10:38:17Z"
+            },
+            "EnableDate": "2020-11-09T10:32:39Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Sridhar",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Sridhar",
+                "UserId": "AIDASBP5FCVTX6YFL4Y7R",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Sridhar",
+                "CreateDate": "2020-04-03T06:19:58Z",
+                "PasswordLastUsed": "2020-12-07T04:08:33Z"
+            },
+            "EnableDate": "2020-04-03T06:29:12Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/aditya.kotian",
+            "User": {
+                "Path": "/",
+                "UserName": "aditya.kotian",
+                "UserId": "AIDASBP5FCVTXJWOE6YYJ",
+                "Arn": "arn:aws:iam::140654220647:user/aditya.kotian",
+                "CreateDate": "2020-11-05T11:08:17Z",
+                "PasswordLastUsed": "2020-12-02T20:12:16Z"
+            },
+            "EnableDate": "2020-11-09T09:06:35Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/sarathkumar.parthasarathy",
+            "User": {
+                "Path": "/",
+                "UserName": "sarathkumar.parthasarathy",
+                "UserId": "AIDASBP5FCVTXRSC2QVPJ",
+                "Arn": "arn:aws:iam::140654220647:user/sarathkumar.parthasarathy",
+                "CreateDate": "2020-11-17T11:46:48Z",
+                "PasswordLastUsed": "2020-12-12T06:56:37Z"
+            },
+            "EnableDate": "2020-11-17T11:49:14Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/renukumar.gopal",
+            "User": {
+                "Path": "/",
+                "UserName": "renukumar.gopal",
+                "UserId": "AIDASBP5FCVTXS2HIQDDW",
+                "Arn": "arn:aws:iam::140654220647:user/renukumar.gopal",
+                "CreateDate": "2020-09-15T09:44:27Z",
+                "PasswordLastUsed": "2020-12-07T10:25:37Z"
+            },
+            "EnableDate": "2020-09-28T10:15:40Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_Dinakaran",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_Dinakaran",
+                "UserId": "AIDASBP5FCVTY5TCCZF6C",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_Dinakaran",
+                "CreateDate": "2020-04-30T11:49:44Z",
+                "PasswordLastUsed": "2020-10-16T18:34:44Z"
+            },
+            "EnableDate": "2020-07-22T07:54:06Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/Ships_SilvestreP",
+            "User": {
+                "Path": "/",
+                "UserName": "Ships_SilvestreP",
+                "UserId": "AIDASBP5FCVTY776Y7OUH",
+                "Arn": "arn:aws:iam::140654220647:user/Ships_SilvestreP",
+                "CreateDate": "2019-10-22T10:32:11Z",
+                "PasswordLastUsed": "2020-11-21T09:27:57Z"
+            },
+            "EnableDate": "2020-02-13T10:43:49Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/tamilarasan.angamuthu",
+            "User": {
+                "Path": "/",
+                "UserName": "tamilarasan.angamuthu",
+                "UserId": "AIDASBP5FCVTZ7APTKWWF",
+                "Arn": "arn:aws:iam::140654220647:user/tamilarasan.angamuthu",
+                "CreateDate": "2020-09-03T11:51:26Z",
+                "PasswordLastUsed": "2020-12-14T05:34:55Z"
+            },
+            "EnableDate": "2020-09-29T09:53:40Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/CentriCProd_Support_Refaideen",
+            "User": {
+                "Path": "/",
+                "UserName": "CentriCProd_Support_Refaideen",
+                "UserId": "AIDASBP5FCVTZLCV54BGI",
+                "Arn": "arn:aws:iam::140654220647:user/CentriCProd_Support_Refaideen",
+                "CreateDate": "2020-04-30T11:49:13Z",
+                "PasswordLastUsed": "2020-10-21T12:04:42Z"
+            },
+            "EnableDate": "2020-06-05T08:50:55Z"
+        },
+        {
+            "SerialNumber": "arn:aws:iam::140654220647:mfa/Ships_Afthab",
+            "User": {
+                "Path": "/",
+                "UserName": "Ships_Afthab",
+                "UserId": "AIDASBP5FCVTZUDADFUX7",
+                "Arn": "arn:aws:iam::140654220647:user/Ships_Afthab",
+                "CreateDate": "2020-07-30T04:12:35Z",
+                "PasswordLastUsed": "2020-12-13T03:40:21Z"
+            },
+            "EnableDate": "2020-08-17T08:05:17Z"
+        }
+    ]
+}
